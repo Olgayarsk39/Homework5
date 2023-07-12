@@ -12,5 +12,5 @@
 ## Решение 
 
 
-[Решение задачи](src/main/java/ru/egorova/api/Homework5/Program.java)
-[Решение задачи](src/main/java/ru/egorova/api/Homework5/PhoneBook.java)
+[Program](src/main/java/ru/egorova/api/Homework5/Program.java)
+[PhoneBook](src/main/java/ru/egorova/api/Homework5/PhoneBook.java)
